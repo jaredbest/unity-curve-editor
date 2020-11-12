@@ -1,1 +1,1 @@
-# unity-curve-editor
+# 2D Curve Editor in Unity
